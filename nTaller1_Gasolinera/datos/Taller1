@@ -1,0 +1,13 @@
+tipo:extra:17000:18.0
+tipo:corriente:15000:10.0
+tipo:SuperPlus:24000:13.0
+tipo:plus:13000:5.0
+surtidor:Marty Mauser:extra:2.0:corriente:0.0:SuperPlus:0.0:plus:0.0
+surtidor:Smoke:extra:0.0:corriente:0.0:SuperPlus:0.0:plus:0.0
+surtidor:Bob Ferguson:extra:0.0:corriente:0.0:SuperPlus:0.0:plus:0.0
+surtidor:Marty Mauser:extra:0.0:corriente:0.0:SuperPlus:0.0:plus:0.0
+empleado:Marty Mauser:34000
+empleado:Smoke:0
+empleado:Michelle Fuller:0
+empleado:Bob Ferguson:0
+empleado:Stack:0
