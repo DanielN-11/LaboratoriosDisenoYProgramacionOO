@@ -1,0 +1,42 @@
+{
+  "clientes": [
+    {
+      "tipo": "Corporativo",
+      "tamanoEmpresa": 2,
+      "nombreEmpresa": "Boeing"
+    },
+    {
+      "tipo": "Corporativo",
+      "tamanoEmpresa": 3,
+      "nombreEmpresa": "Apple"
+    },
+    {"nombre": "Bob"},
+    {"nombre": "Alice"}
+  ],
+  "tiquetes": [
+    {
+      "fecha": "2024-11-05",
+      "tarifa": 165120,
+      "cliente": "Alice",
+      "codigoRuta": "4558",
+      "usado": false,
+      "codigoTiquete": "4558-2024-11-05-3"
+    },
+    {
+      "fecha": "2024-11-05",
+      "tarifa": 165120,
+      "cliente": "Alice",
+      "codigoRuta": "4558",
+      "usado": false,
+      "codigoTiquete": "4558-2024-11-05-2"
+    },
+    {
+      "fecha": "2024-11-05",
+      "tarifa": 450000,
+      "cliente": "Bob",
+      "codigoRuta": "4558",
+      "usado": true,
+      "codigoTiquete": "8769647"
+    }
+  ]
+}
